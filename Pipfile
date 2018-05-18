@@ -8,6 +8,7 @@ ipykernel = "*"
 statsmodels = "==0.8.0"
 plotnine = "*"
 seaborn = "*"
+requests = "*"
 
 [dev-packages]
 
